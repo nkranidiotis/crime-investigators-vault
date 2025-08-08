@@ -62,4 +62,4 @@ Unauthorized or malicious use of these materials is strictly prohibited.
 
 ---
 
-> 🕵️ Maintained by **[R.I.A.](https://osec.gr)** — Cybercrime Investigation Firm
+> 🕵️ Maintained by **[R.I.A.](https://osec.gr)** — Cybercrime Investigation Agency
